@@ -24,3 +24,16 @@
 - 语言
   - 藏语（中国）
   - 韩语（韩国）
+
+## 项目
+以下是我们正在更新和维护的项目，您可以点击了解。
+
+- [ReadTable](https://sysyz-itcom.github.io/WindLin/projects/readtable/readtable.html)
+- [浏览器插件](https://sysyz-itcom.github.io/WindLin/projects/addons.html)
+- [WebJS 组件](https://sysyz-itcom.github.io/WindLin/projects/webjs.html)
+- [浏览器起始页](https://sysyz-itcom.github.io/WindLin/projects/startpage.html)
+
+## 文档
+以下是我们正在更新和维护的文档，您可以点击了解。
+
+- [希沃白板（Easinote 5）故障排查](https://sysyz-itcom.github.io/WindLin/docs/seewo/Easinote.html)
